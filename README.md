@@ -2,7 +2,7 @@
 
 ### 🐉 What am I doing:
 - Web design, Frontend and Backend
-- Desktop apps with help of Electron
+- Web apps with Express.js, MongoDB
 - And some stuff with Node.js 
 
 ### 💦 Language and Libraries i use
