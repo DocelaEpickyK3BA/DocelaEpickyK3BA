@@ -1,11 +1,10 @@
-## Hello I'm K3BA 👋
+## Hi!
+### Languages i know..
+- HTML, CSS, JS
+- C#(still learning)
 
-### 🐉 What am I doing:
-- Web design, Frontend and Backend
-- Web apps with Express.js, MongoDB
-- And some stuff with Node.js 
+### Frameworks i work with
+- Node.js, React
 
-### 💦 Language and Libraries i use
-- Javascript, HTML, CSS
-- Node.js, Electron 
-- Jquery
+### Databases i work with
+- MongoDB, SQLITE(quick.db)
