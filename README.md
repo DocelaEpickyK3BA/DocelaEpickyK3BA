@@ -1,13 +1,17 @@
-## Hi!
-### Languages i know..
-- HTML, CSS, JS
-- C#(still learning)
+## Hi there 👋
 
-### Frameworks i work with
-- Node.js, React
+🎆 2021 To-Do's
+Databases to learn - MySQL
 
-### Sockets
+### 🌱 Languages & Frameworks / Libraries i know
+
+Languages 💕
+- Javascript, Node.js
+- C#
+- HTML, CSS
+
+Databases 📊
+- Non-SQL - MongoDB, Quick.db(BetterSQlite3)
+
+Sockets 🤖
 - Socket.io
-
-### Databases i work with
-- MongoDB, SQLITE(quick.db)
