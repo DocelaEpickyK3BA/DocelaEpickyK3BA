@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-🎆 2021 To-Do's
-Databases to learn - MySQL
+🌫 Active projects
+-(Discontinued) Discovid - Covid-19 Information & Vaccine information Discord bot
+-(Discontinued) Snipz - Discord nitro sniper 
 
 ### 🌱 Languages & Frameworks / Libraries i know
 
