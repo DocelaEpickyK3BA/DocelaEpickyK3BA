@@ -16,3 +16,6 @@ Databases 📊
 
 Sockets 🤖
 - Socket.io
+
+Learning 📚
+- C++
