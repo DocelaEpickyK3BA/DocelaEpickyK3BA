@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 🌫 Active projects
--(Discontinued) Discovid - Covid-19 Information & Vaccine information Discord bot
--(Discontinued) Snipz - Discord nitro sniper 
+1. (Discontinued) Discovid - Covid-19 Information & Vaccine information Discord bot
+2. (Discontinued) Snipz - Discord nitro sniper 
 
 ### 🌱 Languages & Frameworks / Libraries i know
 
