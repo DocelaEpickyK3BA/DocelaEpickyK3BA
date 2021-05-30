@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🌫 Active projects
+🌫 Projects
 1. (Discontinued) Discovid - Covid-19 Information & Vaccine information Discord bot
 2. (Discontinued) Snipz - Discord nitro sniper 
 
@@ -12,10 +12,11 @@ Languages 💕
 - HTML, CSS
 
 Databases 📊
-- Non-SQL - MongoDB, Quick.db(BetterSQlite3)
+- Non-SQL - MongoDB,
+- Sql - Quick.DB(BetterSQLITE3)
 
 Sockets 🤖
 - Socket.io
 
 Learning 📚
-- C++
+- uh oh nothning..
